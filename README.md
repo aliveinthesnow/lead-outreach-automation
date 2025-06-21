@@ -19,6 +19,8 @@ This project automates lead grouping, personalized email outreach using AI, and 
    - `EMAIL_PASSWORD`
    - `GEMINI_API_KEY`
      Inlcude your own email, app password (in EMAIL_PASSWORD) and Gemini API Key.
+
+Include a `.csv` file with the columns - ID,Name,Email,Title,Industry,Stage,Company,Details
 5. Run the C++ executable to generate leads and trigger emails
 
 ## Notes
